@@ -1,0 +1,2502 @@
+[
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "AFG",
+    "Alpha2Code": "AF",
+    "Name": "Afghanistan",
+    "OfficialName": "Islamic Republic of Afghanistan",
+    "Latitude": "33.98299275",
+    "Longitude": "66.39159363",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ALA",
+    "Alpha2Code": "AX",
+    "Name": "\u00c5land Islands",
+    "OfficialName": "\u00c5land Islands",
+    "Latitude": "60.25403213",
+    "Longitude": "20.35918350",
+    "Zoom": 9
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ALB",
+    "Alpha2Code": "AL",
+    "Name": "Albania",
+    "OfficialName": "Republic of Albania",
+    "Latitude": "41.00017358",
+    "Longitude": "19.87170014",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "DZA",
+    "Alpha2Code": "DZ",
+    "Name": "Algeria",
+    "OfficialName": "People's Democratic Republic of Algeria",
+    "Latitude": "27.89861690",
+    "Longitude": "3.19771194",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ASM",
+    "Alpha2Code": "AS",
+    "Name": "American Samoa",
+    "OfficialName": "The United States Territory of American Samoa",
+    "Latitude": "-14.30634641",
+    "Longitude": "-170.69501750",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "AND",
+    "Alpha2Code": "AD",
+    "Name": "Andorra",
+    "OfficialName": "Principality of Andorra",
+    "Latitude": "42.54057088",
+    "Longitude": "1.55201340",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "AGO",
+    "Alpha2Code": "AO",
+    "Name": "Angola",
+    "OfficialName": "Republic of Angola",
+    "Latitude": "-12.16469683",
+    "Longitude": "16.70933622",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "AIA",
+    "Alpha2Code": "AI",
+    "Name": "Anguilla",
+    "OfficialName": "Anguilla",
+    "Latitude": "18.22053521",
+    "Longitude": "-63.06861300",
+    "Zoom": 12
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ATA",
+    "Alpha2Code": "AQ",
+    "Name": "Antarctica",
+    "OfficialName": "Antarctica",
+    "Latitude": "-45.13806295",
+    "Longitude": "10.48095703",
+    "Zoom": 2
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ATG",
+    "Alpha2Code": "AG",
+    "Name": "Antigua and Barbuda",
+    "OfficialName": "Antigua and Barbuda",
+    "Latitude": "17.48060423",
+    "Longitude": "-61.42014426",
+    "Zoom": 9
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ARG",
+    "Alpha2Code": "AR",
+    "Name": "Argentina",
+    "OfficialName": "Argentine Republic",
+    "Latitude": "-38.01529308",
+    "Longitude": "-64.97897469",
+    "Zoom": 4
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ARM",
+    "Alpha2Code": "AM",
+    "Name": "Armenia",
+    "OfficialName": "Republic of Armenia",
+    "Latitude": "40.13475528",
+    "Longitude": "45.01072318",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ABW",
+    "Alpha2Code": "AW",
+    "Name": "Aruba",
+    "OfficialName": "Aruba of the Kingdom of the Netherlands",
+    "Latitude": "12.52109661",
+    "Longitude": "-69.96833800",
+    "Zoom": 12
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "AUS",
+    "Alpha2Code": "AU",
+    "Name": "Australia",
+    "OfficialName": "Australia",
+    "Latitude": "-26.29594646",
+    "Longitude": "133.55540944",
+    "Zoom": 4
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "AUT",
+    "Alpha2Code": "AT",
+    "Name": "Austria",
+    "OfficialName": "Republic of Austria",
+    "Latitude": "47.63125476",
+    "Longitude": "13.18776731",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "AZE",
+    "Alpha2Code": "AZ",
+    "Name": "Azerbaijan",
+    "OfficialName": "Republic of Azerbaijan",
+    "Latitude": "40.35321757",
+    "Longitude": "47.46706372",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BHS",
+    "Alpha2Code": "BS",
+    "Name": "Bahamas",
+    "OfficialName": "Commonwealth of the Bahamas",
+    "Latitude": "24.45991732",
+    "Longitude": "-77.68192453",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BHR",
+    "Alpha2Code": "BH",
+    "Name": "Bahrain",
+    "OfficialName": "Kingdom of Bahrain",
+    "Latitude": "25.90740996",
+    "Longitude": "50.65932354",
+    "Zoom": 9
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BGD",
+    "Alpha2Code": "BD",
+    "Name": "Bangladesh",
+    "OfficialName": "People's Republic of Bangladesh",
+    "Latitude": "24.08273251",
+    "Longitude": "90.49915527",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BRB",
+    "Alpha2Code": "BB",
+    "Name": "Barbados",
+    "OfficialName": "Barbados",
+    "Latitude": "13.19383077",
+    "Longitude": "-59.54319600",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BLR",
+    "Alpha2Code": "BY",
+    "Name": "Belarus",
+    "OfficialName": "Republic of Belarus",
+    "Latitude": "53.58628747",
+    "Longitude": "27.95338900",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BEL",
+    "Alpha2Code": "BE",
+    "Name": "Belgium",
+    "OfficialName": "Kingdom of Belgium",
+    "Latitude": "50.49593874",
+    "Longitude": "4.46993600",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BLZ",
+    "Alpha2Code": "BZ",
+    "Name": "Belize",
+    "OfficialName": "Belize",
+    "Latitude": "17.21153631",
+    "Longitude": "-88.01424956",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BEN",
+    "Alpha2Code": "BJ",
+    "Name": "Benin",
+    "OfficialName": "Republic of Benin",
+    "Latitude": "9.37180859",
+    "Longitude": "2.29386134",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BMU",
+    "Alpha2Code": "BM",
+    "Name": "Bermuda",
+    "OfficialName": "Bermudas",
+    "Latitude": "32.31995785",
+    "Longitude": "-64.76182765",
+    "Zoom": 12
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BTN",
+    "Alpha2Code": "BT",
+    "Name": "Bhutan",
+    "OfficialName": "Kingdom of Bhutan",
+    "Latitude": "27.50752756",
+    "Longitude": "90.43360300",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BOL",
+    "Alpha2Code": "BO",
+    "Name": "Bolivia",
+    "OfficialName": "Plurinational State of Bolivia",
+    "Latitude": "-16.74518128",
+    "Longitude": "-65.19265691",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BES",
+    "Alpha2Code": "BQ",
+    "Name": "Bonaire, Saint Eustatius And Saba",
+    "OfficialName": "Bonaire, Saint Eustatius and Saba",
+    "Latitude": "12.17229702",
+    "Longitude": "-68.28831170",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BIH",
+    "Alpha2Code": "BA",
+    "Name": "Bosnia and Herzegovina",
+    "OfficialName": "Bosnia and Herzegovina",
+    "Latitude": "44.00040856",
+    "Longitude": "17.81640910",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BWA",
+    "Alpha2Code": "BW",
+    "Name": "Botswana",
+    "OfficialName": "Republic of Botswana",
+    "Latitude": "-22.18279485",
+    "Longitude": "24.22344422",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BVT",
+    "Alpha2Code": "BV",
+    "Name": "Bouvet Island",
+    "OfficialName": "Bouvet Island",
+    "Latitude": "-54.42316906",
+    "Longitude": "3.41319600",
+    "Zoom": 12
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BRA",
+    "Alpha2Code": "BR",
+    "Name": "Brazil",
+    "OfficialName": "Federative Republic of Brazil",
+    "Latitude": "-11.80965046",
+    "Longitude": "-53.33152600",
+    "Zoom": 4
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "IOT",
+    "Alpha2Code": "IO",
+    "Name": "British Indian Ocean Territory",
+    "OfficialName": "The British Indian Ocean Territory",
+    "Latitude": "-7.33461519",
+    "Longitude": "72.42425280",
+    "Zoom": 12
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BRN",
+    "Alpha2Code": "BN",
+    "Name": "Brunei Darussalam",
+    "OfficialName": "Brunei Darussalam",
+    "Latitude": "4.54189364",
+    "Longitude": "114.60132823",
+    "Zoom": 9
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BGR",
+    "Alpha2Code": "BG",
+    "Name": "Bulgaria",
+    "OfficialName": "Republic of Bulgaria",
+    "Latitude": "42.70160678",
+    "Longitude": "25.48583200",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BFA",
+    "Alpha2Code": "BF",
+    "Name": "Burkina Faso",
+    "OfficialName": "Burkina Faso",
+    "Latitude": "12.22492458",
+    "Longitude": "-1.56159100",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BDI",
+    "Alpha2Code": "BI",
+    "Name": "Burundi",
+    "OfficialName": "Republic of Burundi",
+    "Latitude": "-3.40499707",
+    "Longitude": "29.88592902",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "CPV",
+    "Alpha2Code": "CV",
+    "Name": "Cabo Verde",
+    "OfficialName": "Republic of Cabo Verde",
+    "Latitude": "15.11988711",
+    "Longitude": "-23.60517010",
+    "Zoom": 10
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "KHM",
+    "Alpha2Code": "KH",
+    "Name": "Cambodia",
+    "OfficialName": "Kingdom of Cambodia",
+    "Latitude": "12.83288883",
+    "Longitude": "104.84814273",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "CMR",
+    "Alpha2Code": "CM",
+    "Name": "Cameroon",
+    "OfficialName": "Republic of Cameroon",
+    "Latitude": "7.38622543",
+    "Longitude": "12.72825915",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "CAN",
+    "Alpha2Code": "CA",
+    "Name": "Canada",
+    "OfficialName": "Canada",
+    "Latitude": "60.36196817",
+    "Longitude": "-106.69833150",
+    "Zoom": 4
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "CYM",
+    "Alpha2Code": "KY",
+    "Name": "Cayman Islands",
+    "OfficialName": "The Cayman Islands",
+    "Latitude": "19.31322102",
+    "Longitude": "-81.25459800",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "CAF",
+    "Alpha2Code": "CF",
+    "Name": "Central African Republic",
+    "OfficialName": "Central African Republic",
+    "Latitude": "6.82541830",
+    "Longitude": "20.64281514",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "TCD",
+    "Alpha2Code": "TD",
+    "Name": "Chad",
+    "OfficialName": "Republic of Chad",
+    "Latitude": "14.80342407",
+    "Longitude": "18.78714064",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "CHL",
+    "Alpha2Code": "CL",
+    "Name": "Chile",
+    "OfficialName": "Republic of Chile",
+    "Latitude": "-38.01760790",
+    "Longitude": "-71.40014474",
+    "Zoom": 4
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "CHN",
+    "Alpha2Code": "CN",
+    "Name": "China",
+    "OfficialName": "People's Republic of China",
+    "Latitude": "36.71457440",
+    "Longitude": "103.55819197",
+    "Zoom": 4
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "CXR",
+    "Alpha2Code": "CX",
+    "Name": "Christmas Island",
+    "OfficialName": "Territory of Christmas Island",
+    "Latitude": "-10.49170619",
+    "Longitude": "105.68083796",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "CCK",
+    "Alpha2Code": "CC",
+    "Name": "Cocos (Keeling) Islands",
+    "OfficialName": "Territory of Cocos (Keeling) Islands",
+    "Latitude": "-12.12890685",
+    "Longitude": "96.84689104",
+    "Zoom": 12
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "COL",
+    "Alpha2Code": "CO",
+    "Name": "Colombia",
+    "OfficialName": "Republic of Colombia",
+    "Latitude": "3.68182320",
+    "Longitude": "-73.53927436",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "COM",
+    "Alpha2Code": "KM",
+    "Name": "Comoros",
+    "OfficialName": "Union of the Comoros",
+    "Latitude": "-11.64529989",
+    "Longitude": "43.33330200",
+    "Zoom": 10
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "COG",
+    "Alpha2Code": "CG",
+    "Name": "Congo",
+    "OfficialName": "Republic of the Congo",
+    "Latitude": "-0.68967806",
+    "Longitude": "15.69033190",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "COK",
+    "Alpha2Code": "CK",
+    "Name": "Cook Islands",
+    "OfficialName": "Cook Islands",
+    "Latitude": "-21.23673066",
+    "Longitude": "-159.77766900",
+    "Zoom": 13
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "CRI",
+    "Alpha2Code": "CR",
+    "Name": "Costa Rica",
+    "OfficialName": "Republic of Costa Rica",
+    "Latitude": "9.98427463",
+    "Longitude": "-84.09949534",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "CIV",
+    "Alpha2Code": "CI",
+    "Name": "C\u00f4te d'Ivoire",
+    "OfficialName": "Republic of C\u00f4te d'Ivoire",
+    "Latitude": "7.59684148",
+    "Longitude": "-5.49214636",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "HRV",
+    "Alpha2Code": "HR",
+    "Name": "Croatia",
+    "OfficialName": "Republic of Croatia",
+    "Latitude": "44.81372482",
+    "Longitude": "16.29039507",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "CUB",
+    "Alpha2Code": "CU",
+    "Name": "Cuba",
+    "OfficialName": "Republic of Cuba",
+    "Latitude": "21.54513189",
+    "Longitude": "-79.00064743",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "CUW",
+    "Alpha2Code": "CW",
+    "Name": "Cura\u00e7ao",
+    "OfficialName": "Cura\u00e7ao",
+    "Latitude": "12.20710309",
+    "Longitude": "-69.02160369",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "CYP",
+    "Alpha2Code": "CY",
+    "Name": "Cyprus",
+    "OfficialName": "Republic of Cyprus",
+    "Latitude": "35.12450768",
+    "Longitude": "33.42986100",
+    "Zoom": 9
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "CZE",
+    "Alpha2Code": "CZ",
+    "Name": "Czechia",
+    "OfficialName": "Czech Republic",
+    "Latitude": "49.76026136",
+    "Longitude": "15.53888197",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "PRK",
+    "Alpha2Code": "KP",
+    "Name": "North Korea",
+    "OfficialName": "Democratic People's Republic of Korea",
+    "Latitude": "40.00785500",
+    "Longitude": "127.48812834",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "COD",
+    "Alpha2Code": "CD",
+    "Name": "Democratic Republic of the Congo",
+    "OfficialName": "Democratic Republic of Congo",
+    "Latitude": "-4.05373938",
+    "Longitude": "23.01110741",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "DNK",
+    "Alpha2Code": "DK",
+    "Name": "Denmark",
+    "OfficialName": "Kingdom of Denmark",
+    "Latitude": "54.71794021",
+    "Longitude": "9.41938953",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "DJI",
+    "Alpha2Code": "DJ",
+    "Name": "Djibouti",
+    "OfficialName": "Republic of Djibouti",
+    "Latitude": "11.75959257",
+    "Longitude": "42.65344839",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "DMA",
+    "Alpha2Code": "DM",
+    "Name": "Dominica",
+    "OfficialName": "Commonwealth of Dominica",
+    "Latitude": "15.41473963",
+    "Longitude": "-61.37097400",
+    "Zoom": 10
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "DOM",
+    "Alpha2Code": "DO",
+    "Name": "Dominican Republic",
+    "OfficialName": "Dominican Republic",
+    "Latitude": "18.73076761",
+    "Longitude": "-70.16264900",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ECU",
+    "Alpha2Code": "EC",
+    "Name": "Ecuador",
+    "OfficialName": "Republic of Ecuador",
+    "Latitude": "-1.22919037",
+    "Longitude": "-78.55693916",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "EGY",
+    "Alpha2Code": "EG",
+    "Name": "Egypt",
+    "OfficialName": "Arab Republic of Egypt",
+    "Latitude": "26.71650873",
+    "Longitude": "30.80250000",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SLV",
+    "Alpha2Code": "SV",
+    "Name": "El Salvador",
+    "OfficialName": "Republic of El Salvador",
+    "Latitude": "13.79043561",
+    "Longitude": "-88.89652800",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "GNQ",
+    "Alpha2Code": "GQ",
+    "Name": "Equatorial Guinea",
+    "OfficialName": "Republic of Equatorial Guinea",
+    "Latitude": "1.65068442",
+    "Longitude": "10.26789700",
+    "Zoom": 9
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ERI",
+    "Alpha2Code": "ER",
+    "Name": "Eritrea",
+    "OfficialName": "State of Eritrea",
+    "Latitude": "15.21227764",
+    "Longitude": "39.61204792",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "EST",
+    "Alpha2Code": "EE",
+    "Name": "Estonia",
+    "OfficialName": "Republic of Estonia",
+    "Latitude": "58.74041141",
+    "Longitude": "25.38165099",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ETH",
+    "Alpha2Code": "ET",
+    "Name": "Ethiopia",
+    "OfficialName": "Federal Democratic Republic of Ethiopia",
+    "Latitude": "9.10727589",
+    "Longitude": "39.84148164",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "EUR",
+    "Alpha2Code": "EU",
+    "Name": "European Union",
+    "OfficialName": "European Union",
+    "Latitude": "48.76380654",
+    "Longitude": "14.26843140",
+    "Zoom": 3
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "FLK",
+    "Alpha2Code": "FK",
+    "Name": "Falkland Islands (Malvinas)",
+    "OfficialName": "Falkland Islands",
+    "Latitude": "-51.78838251",
+    "Longitude": "-59.52361100",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "FRO",
+    "Alpha2Code": "FO",
+    "Name": "Faroe Islands (Associate Member)",
+    "OfficialName": "Faroe Islands",
+    "Latitude": "61.88590482",
+    "Longitude": "-6.91180400",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "FJI",
+    "Alpha2Code": "FJ",
+    "Name": "Fiji",
+    "OfficialName": "Republic of Fiji",
+    "Latitude": "-17.71219757",
+    "Longitude": "178.06503600",
+    "Zoom": 9
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "FIN",
+    "Alpha2Code": "FI",
+    "Name": "Finland",
+    "OfficialName": "Republic of Finland",
+    "Latitude": "64.69610892",
+    "Longitude": "26.36339137",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "FRA",
+    "Alpha2Code": "FR",
+    "Name": "France",
+    "OfficialName": "French Republic",
+    "Latitude": "46.48372145",
+    "Longitude": "2.60926281",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "GUF",
+    "Alpha2Code": "GF",
+    "Name": "French Guiana",
+    "OfficialName": "French Guiana",
+    "Latitude": "4.01114381",
+    "Longitude": "-52.97746057",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "PYF",
+    "Alpha2Code": "PF",
+    "Name": "French Polynesia",
+    "OfficialName": "Territory of French Polynesia",
+    "Latitude": "-17.66243898",
+    "Longitude": "-149.40683900",
+    "Zoom": 10
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ATF",
+    "Alpha2Code": "TF",
+    "Name": "French Southern and Antarctic Lands",
+    "OfficialName": "Territory of the French Southern and Antarctic Lands",
+    "Latitude": "-49.27235903",
+    "Longitude": "69.34856300",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "GAB",
+    "Alpha2Code": "GA",
+    "Name": "Gabon",
+    "OfficialName": "Gabonese Republic",
+    "Latitude": "-0.43426435",
+    "Longitude": "11.43916591",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "GMB",
+    "Alpha2Code": "GM",
+    "Name": "Gambia",
+    "OfficialName": "Islamic Republic of the Gambia",
+    "Latitude": "13.15921146",
+    "Longitude": "-15.35956748",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "GEO",
+    "Alpha2Code": "GE",
+    "Name": "Georgia",
+    "OfficialName": "Georgia",
+    "Latitude": "41.82754301",
+    "Longitude": "44.17329916",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "DEU",
+    "Alpha2Code": "DE",
+    "Name": "Germany",
+    "OfficialName": "Federal Republic of Germany",
+    "Latitude": "50.82871201",
+    "Longitude": "10.97887975",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "GHA",
+    "Alpha2Code": "GH",
+    "Name": "Ghana",
+    "OfficialName": "Republic of Ghana",
+    "Latitude": "7.69154199",
+    "Longitude": "-1.29234904",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "GIB",
+    "Alpha2Code": "GI",
+    "Name": "Gibraltar",
+    "OfficialName": "Gibraltar",
+    "Latitude": "36.14864641",
+    "Longitude": "-5.34404779",
+    "Zoom": 12
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "GRC",
+    "Alpha2Code": "GR",
+    "Name": "Greece",
+    "OfficialName": "Hellenic Republic",
+    "Latitude": "38.52254746",
+    "Longitude": "24.53794505",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "GRL",
+    "Alpha2Code": "GL",
+    "Name": "Greenland",
+    "OfficialName": "Greenland",
+    "Latitude": "71.42932629",
+    "Longitude": "-34.38651956",
+    "Zoom": 3
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "GRD",
+    "Alpha2Code": "GD",
+    "Name": "Grenada",
+    "OfficialName": "Grenada",
+    "Latitude": "12.11644807",
+    "Longitude": "-61.67899400",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "GLP",
+    "Alpha2Code": "GP",
+    "Name": "Guadeloupe",
+    "OfficialName": "Department of Guadeloupe",
+    "Latitude": "16.26472785",
+    "Longitude": "-61.55099400",
+    "Zoom": 10
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "GUM",
+    "Alpha2Code": "GU",
+    "Name": "Guam",
+    "OfficialName": "Territory of Guam",
+    "Latitude": "13.44410137",
+    "Longitude": "144.80747791",
+    "Zoom": 10
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "GTM",
+    "Alpha2Code": "GT",
+    "Name": "Guatemala",
+    "OfficialName": "Republic of Guatemala",
+    "Latitude": "15.72598421",
+    "Longitude": "-89.96707712",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "GGY",
+    "Alpha2Code": "GG",
+    "Name": "Guernsey",
+    "OfficialName": "Bailiwick of Guernsey",
+    "Latitude": "49.46565975",
+    "Longitude": "-2.58527200",
+    "Zoom": 12
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "GIN",
+    "Alpha2Code": "GN",
+    "Name": "Guinea",
+    "OfficialName": "Republic of Guinea",
+    "Latitude": "9.94301472",
+    "Longitude": "-11.31711839",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "GNB",
+    "Alpha2Code": "GW",
+    "Name": "Guinea-Bissau",
+    "OfficialName": "Republic of Guinea-Bissau",
+    "Latitude": "11.80050682",
+    "Longitude": "-15.18040700",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "GUY",
+    "Alpha2Code": "GY",
+    "Name": "Guyana",
+    "OfficialName": "Republic of Guyana",
+    "Latitude": "4.47957059",
+    "Longitude": "-58.72692293",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "HTI",
+    "Alpha2Code": "HT",
+    "Name": "Haiti",
+    "OfficialName": "Republic of Haiti",
+    "Latitude": "19.07430861",
+    "Longitude": "-72.79607526",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "HMD",
+    "Alpha2Code": "HM",
+    "Name": "Heard Island And McDonald Islands",
+    "OfficialName": "Heard and McDonald Islands",
+    "Latitude": "-53.08168847",
+    "Longitude": "73.50415800",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "VAT",
+    "Alpha2Code": "VA",
+    "Name": "Holy See",
+    "OfficialName": "Holy see",
+    "Latitude": "41.90377810",
+    "Longitude": "12.45340142",
+    "Zoom": 16
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "HND",
+    "Alpha2Code": "HN",
+    "Name": "Honduras",
+    "OfficialName": "Republic of Honduras",
+    "Latitude": "14.64994423",
+    "Longitude": "-87.01643713",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "HKG",
+    "Alpha2Code": "HK",
+    "Name": "Hong Kong",
+    "OfficialName": "Hong Kong Special Administrative Region of the People's Republic",
+    "Latitude": "22.33728531",
+    "Longitude": "114.14657786",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "HUN",
+    "Alpha2Code": "HU",
+    "Name": "Hungary",
+    "OfficialName": "Hungary",
+    "Latitude": "46.97670384",
+    "Longitude": "19.35499657",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ISL",
+    "Alpha2Code": "IS",
+    "Name": "Iceland",
+    "OfficialName": "Republic of Iceland",
+    "Latitude": "64.99294495",
+    "Longitude": "-18.57038755",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "IND",
+    "Alpha2Code": "IN",
+    "Name": "India",
+    "OfficialName": "Republic of India",
+    "Latitude": "20.46549519",
+    "Longitude": "78.50146222",
+    "Zoom": 4
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "IDN",
+    "Alpha2Code": "ID",
+    "Name": "Indonesia",
+    "OfficialName": "Republic of Indonesia",
+    "Latitude": "-2.46229680",
+    "Longitude": "121.18329789",
+    "Zoom": 4
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "IRN",
+    "Alpha2Code": "IR",
+    "Name": "Iran (Islamic Republic of)",
+    "OfficialName": "Islamic Republic of Iran",
+    "Latitude": "31.40240324",
+    "Longitude": "51.28204814",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "IRQ",
+    "Alpha2Code": "IQ",
+    "Name": "Iraq",
+    "OfficialName": "Republic of Iraq",
+    "Latitude": "32.90170182",
+    "Longitude": "43.19590056",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "IRL",
+    "Alpha2Code": "IE",
+    "Name": "Ireland",
+    "OfficialName": "Ireland",
+    "Latitude": "53.10101628",
+    "Longitude": "-8.21092302",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "IMN",
+    "Alpha2Code": "IM",
+    "Name": "Isle of Man",
+    "OfficialName": "The Isle of Man",
+    "Latitude": "54.23562697",
+    "Longitude": "-4.54805400",
+    "Zoom": 10
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ISR",
+    "Alpha2Code": "IL",
+    "Name": "Israel",
+    "OfficialName": "State of Israel",
+    "Latitude": "30.85883075",
+    "Longitude": "34.91753797",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ITA",
+    "Alpha2Code": "IT",
+    "Name": "Italy",
+    "OfficialName": "Republic of Italy",
+    "Latitude": "41.77810840",
+    "Longitude": "12.67725128",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "JAM",
+    "Alpha2Code": "JM",
+    "Name": "Jamaica",
+    "OfficialName": "Jamaica",
+    "Latitude": "18.10838487",
+    "Longitude": "-77.29750600",
+    "Zoom": 9
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "JPN",
+    "Alpha2Code": "JP",
+    "Name": "Japan",
+    "OfficialName": "Japan",
+    "Latitude": "37.51848822",
+    "Longitude": "137.67066061",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "JEY",
+    "Alpha2Code": "JE",
+    "Name": "Jersey",
+    "OfficialName": "Bailiwick of Jersey",
+    "Latitude": "49.21440771",
+    "Longitude": "-2.13124600",
+    "Zoom": 12
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "JOR",
+    "Alpha2Code": "JO",
+    "Name": "Jordan",
+    "OfficialName": "Hashemite Kingdom of Jordan",
+    "Latitude": "31.31616588",
+    "Longitude": "36.37575510",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "KAZ",
+    "Alpha2Code": "KZ",
+    "Name": "Kazakhstan",
+    "OfficialName": "Republic of Kazakhstan",
+    "Latitude": "45.38592596",
+    "Longitude": "68.81334444",
+    "Zoom": 4
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "KEN",
+    "Alpha2Code": "KE",
+    "Name": "Kenya",
+    "OfficialName": "Republic of Kenya",
+    "Latitude": "0.19582452",
+    "Longitude": "37.97212297",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "KIR",
+    "Alpha2Code": "KI",
+    "Name": "Kiribati",
+    "OfficialName": "Republic of Kiribati",
+    "Latitude": "1.87085244",
+    "Longitude": "-157.36259310",
+    "Zoom": 10
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "KWT",
+    "Alpha2Code": "KW",
+    "Name": "Kuwait",
+    "OfficialName": "State of Kuwait",
+    "Latitude": "29.43253341",
+    "Longitude": "47.71798405",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "KGZ",
+    "Alpha2Code": "KG",
+    "Name": "Kyrgyzstan",
+    "OfficialName": "Kyrgyz Republic",
+    "Latitude": "41.11509878",
+    "Longitude": "74.25524574",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "LAO",
+    "Alpha2Code": "LA",
+    "Name": "Lao People's Democratic Republic",
+    "OfficialName": "Lao People's Democratic Republic",
+    "Latitude": "17.76075593",
+    "Longitude": "103.61611347",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "LVA",
+    "Alpha2Code": "LV",
+    "Name": "Latvia",
+    "OfficialName": "Republic of Latvia",
+    "Latitude": "56.86697515",
+    "Longitude": "24.54826936",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "LBN",
+    "Alpha2Code": "LB",
+    "Name": "Lebanon",
+    "OfficialName": "Lebanese Republic",
+    "Latitude": "34.08249284",
+    "Longitude": "35.66454309",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "LSO",
+    "Alpha2Code": "LS",
+    "Name": "Lesotho",
+    "OfficialName": "Kingdom of Lesotho",
+    "Latitude": "-29.60303205",
+    "Longitude": "28.23361200",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "LBR",
+    "Alpha2Code": "LR",
+    "Name": "Liberia",
+    "OfficialName": "Republic of Liberia",
+    "Latitude": "6.44154681",
+    "Longitude": "-9.39103485",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "LBY",
+    "Alpha2Code": "LY",
+    "Name": "Libya",
+    "OfficialName": "Libya",
+    "Latitude": "27.06902914",
+    "Longitude": "18.19513987",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "LIE",
+    "Alpha2Code": "LI",
+    "Name": "Liechtenstein",
+    "OfficialName": "Principality of Liechtenstein",
+    "Latitude": "47.16587383",
+    "Longitude": "9.55537700",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "LTU",
+    "Alpha2Code": "LT",
+    "Name": "Lithuania",
+    "OfficialName": "Republic of Lithuania",
+    "Latitude": "55.25095948",
+    "Longitude": "23.80987587",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "LUX",
+    "Alpha2Code": "LU",
+    "Name": "Luxembourg",
+    "OfficialName": "Grand Duchy of Luxembourg",
+    "Latitude": "49.81327712",
+    "Longitude": "6.12958700",
+    "Zoom": 9
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MAC",
+    "Alpha2Code": "MO",
+    "Name": "Macao",
+    "OfficialName": "Macau Special Administrative Region",
+    "Latitude": "22.19872287",
+    "Longitude": "113.54387700",
+    "Zoom": 12
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MDG",
+    "Alpha2Code": "MG",
+    "Name": "Madagascar",
+    "OfficialName": "Republic of Madagascar",
+    "Latitude": "-19.79858543",
+    "Longitude": "46.97898228",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MWI",
+    "Alpha2Code": "MW",
+    "Name": "Malawi",
+    "OfficialName": "Republic of Malawi",
+    "Latitude": "-12.48684092",
+    "Longitude": "34.14223524",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MYS",
+    "Alpha2Code": "MY",
+    "Name": "Malaysia",
+    "OfficialName": "Malaysia",
+    "Latitude": "4.97345793",
+    "Longitude": "106.54609050",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MDV",
+    "Alpha2Code": "MV",
+    "Name": "Maldives",
+    "OfficialName": "Republic of Maldives",
+    "Latitude": "-0.64224221",
+    "Longitude": "73.13373313",
+    "Zoom": 12
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MLI",
+    "Alpha2Code": "ML",
+    "Name": "Mali",
+    "OfficialName": "Republic of Mali",
+    "Latitude": "17.69385811",
+    "Longitude": "-1.96368730",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MLT",
+    "Alpha2Code": "MT",
+    "Name": "Malta",
+    "OfficialName": "Republic of Malta",
+    "Latitude": "35.89706403",
+    "Longitude": "14.43687877",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MHL",
+    "Alpha2Code": "MH",
+    "Name": "Marshall Islands",
+    "OfficialName": "Republic of the Marshall Islands",
+    "Latitude": "7.30130732",
+    "Longitude": "168.75512619",
+    "Zoom": 10
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MTQ",
+    "Alpha2Code": "MQ",
+    "Name": "Martinique",
+    "OfficialName": "Department of Martinique",
+    "Latitude": "14.64128045",
+    "Longitude": "-61.02417600",
+    "Zoom": 10
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MRT",
+    "Alpha2Code": "MR",
+    "Name": "Mauritania",
+    "OfficialName": "Islamic Republic of Mauritania",
+    "Latitude": "20.28331239",
+    "Longitude": "-10.21573334",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MUS",
+    "Alpha2Code": "MU",
+    "Name": "Mauritius",
+    "OfficialName": "Republic of Mauritius",
+    "Latitude": "-20.28368188",
+    "Longitude": "57.56588291",
+    "Zoom": 10
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MYT",
+    "Alpha2Code": "YT",
+    "Name": "Mayotte",
+    "OfficialName": "Overseas Department of Mayotte",
+    "Latitude": "-12.82744522",
+    "Longitude": "45.16624200",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MEX",
+    "Alpha2Code": "MX",
+    "Name": "Mexico",
+    "OfficialName": "United Mexican States",
+    "Latitude": "22.92036676",
+    "Longitude": "-102.33305344",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "FSM",
+    "Alpha2Code": "FM",
+    "Name": "Micronesia",
+    "OfficialName": "Federated States of Micronesia",
+    "Latitude": "6.88747377",
+    "Longitude": "158.21507170",
+    "Zoom": 12
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MCO",
+    "Alpha2Code": "MC",
+    "Name": "Monaco",
+    "OfficialName": "Principality of Monaco",
+    "Latitude": "43.70463620",
+    "Longitude": "6.75444978",
+    "Zoom": 9
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MNG",
+    "Alpha2Code": "MN",
+    "Name": "Mongolia",
+    "OfficialName": "Mongolia",
+    "Latitude": "46.80556270",
+    "Longitude": "104.30808978",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MNE",
+    "Alpha2Code": "ME",
+    "Name": "Montenegro",
+    "OfficialName": "Montenegro",
+    "Latitude": "42.71699590",
+    "Longitude": "19.09699321",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MSR",
+    "Alpha2Code": "MS",
+    "Name": "Montserrat",
+    "OfficialName": "Montserrat",
+    "Latitude": "16.74774077",
+    "Longitude": "-62.18736600",
+    "Zoom": 12
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MAR",
+    "Alpha2Code": "MA",
+    "Name": "Morocco",
+    "OfficialName": "Kingdom of Morocco",
+    "Latitude": "31.95441758",
+    "Longitude": "-7.26839325",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MOZ",
+    "Alpha2Code": "MZ",
+    "Name": "Mozambique",
+    "OfficialName": "Republic of Mozambique",
+    "Latitude": "-19.07617816",
+    "Longitude": "33.81570282",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MMR",
+    "Alpha2Code": "MM",
+    "Name": "Myanmar",
+    "OfficialName": "Republic of Union of Myanmar",
+    "Latitude": "19.20985380",
+    "Longitude": "96.54949272",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "NAM",
+    "Alpha2Code": "NA",
+    "Name": "Namibia",
+    "OfficialName": "Republic of Namibia",
+    "Latitude": "-22.70965620",
+    "Longitude": "16.72161918",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "NRU",
+    "Alpha2Code": "NR",
+    "Name": "Nauru",
+    "OfficialName": "Republic of Nauru",
+    "Latitude": "-0.52586763",
+    "Longitude": "166.93270463",
+    "Zoom": 13
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "NPL",
+    "Alpha2Code": "NP",
+    "Name": "Nepal",
+    "OfficialName": "Federal Democratic Republic of Nepal",
+    "Latitude": "28.28430770",
+    "Longitude": "83.98119373",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "NLD",
+    "Alpha2Code": "NL",
+    "Name": "Netherlands",
+    "OfficialName": "Kingdom of Netherlands",
+    "Latitude": "52.33939951",
+    "Longitude": "4.98914998",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "NCL",
+    "Alpha2Code": "NC",
+    "Name": "New Caledonia",
+    "OfficialName": "Territory of New Caledonia and Dependencies",
+    "Latitude": "-21.26104020",
+    "Longitude": "165.58783760",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "NZL",
+    "Alpha2Code": "NZ",
+    "Name": "New Zealand",
+    "OfficialName": "New Zealand",
+    "Latitude": "-40.95025298",
+    "Longitude": "171.76586181",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "NIC",
+    "Alpha2Code": "NI",
+    "Name": "Nicaragua",
+    "OfficialName": "Republic of Nicaragua",
+    "Latitude": "12.91806226",
+    "Longitude": "-84.82270352",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "NER",
+    "Alpha2Code": "NE",
+    "Name": "Niger",
+    "OfficialName": "Republic of Niger",
+    "Latitude": "17.23446679",
+    "Longitude": "8.23547860",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "NGA",
+    "Alpha2Code": "NG",
+    "Name": "Nigeria",
+    "OfficialName": "Federal Republic of Nigeria",
+    "Latitude": "9.02165273",
+    "Longitude": "7.82933373",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "NIU",
+    "Alpha2Code": "NU",
+    "Name": "Niue",
+    "OfficialName": "Niue",
+    "Latitude": "-19.04976362",
+    "Longitude": "-169.86585571",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "NFK",
+    "Alpha2Code": "NF",
+    "Name": "Norfolk Island",
+    "OfficialName": "Norfolk Islands",
+    "Latitude": "-29.02801043",
+    "Longitude": "167.94303023",
+    "Zoom": 13
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MNP",
+    "Alpha2Code": "MP",
+    "Name": "Northern Mariana Islands",
+    "OfficialName": "Commonwealth of the Northern Mariana Islands",
+    "Latitude": "15.09783636",
+    "Longitude": "145.67390000",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "NOR",
+    "Alpha2Code": "NO",
+    "Name": "Norway",
+    "OfficialName": "Kingdom of Norway",
+    "Latitude": "65.04680297",
+    "Longitude": "13.50069228",
+    "Zoom": 4
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "OMN",
+    "Alpha2Code": "OM",
+    "Name": "Oman",
+    "OfficialName": "Sultanate of Oman",
+    "Latitude": "20.69906846",
+    "Longitude": "56.69230596",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "PAK",
+    "Alpha2Code": "PK",
+    "Name": "Pakistan",
+    "OfficialName": "Islamic Republic of Pakistan",
+    "Latitude": "29.90335974",
+    "Longitude": "70.34487986",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "PLW",
+    "Alpha2Code": "PW",
+    "Name": "Palau",
+    "OfficialName": "Republic of Palau",
+    "Latitude": "7.49856307",
+    "Longitude": "134.57291496",
+    "Zoom": 10
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "PSE",
+    "Alpha2Code": "PS",
+    "Name": "Palestinian Territory, Occupied",
+    "OfficialName": "Occupied Palestinian Territory",
+    "Latitude": "32.26367103",
+    "Longitude": "35.21936714",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "PAN",
+    "Alpha2Code": "PA",
+    "Name": "Panama",
+    "OfficialName": "Republic of Panama",
+    "Latitude": "8.52135102",
+    "Longitude": "-80.04603702",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "PNG",
+    "Alpha2Code": "PG",
+    "Name": "Papua New Guinea",
+    "OfficialName": "Independent State of Papua New Guinea",
+    "Latitude": "-6.62414046",
+    "Longitude": "144.44993477",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "PRY",
+    "Alpha2Code": "PY",
+    "Name": "Paraguay",
+    "OfficialName": "Republic of Paraguay",
+    "Latitude": "-23.38564782",
+    "Longitude": "-58.29551057",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "PER",
+    "Alpha2Code": "PE",
+    "Name": "Peru",
+    "OfficialName": "Republic of Peru",
+    "Latitude": "-8.50205247",
+    "Longitude": "-76.15772412",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "PHL",
+    "Alpha2Code": "PH",
+    "Name": "Philippines",
+    "OfficialName": "Republic of Philippines",
+    "Latitude": "12.82361200",
+    "Longitude": "121.77401700",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "PCN",
+    "Alpha2Code": "PN",
+    "Name": "Pitcairn Islands",
+    "OfficialName": "Pitcairn Group of Islands",
+    "Latitude": "-24.37673925",
+    "Longitude": "-128.32423730",
+    "Zoom": 13
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "POL",
+    "Alpha2Code": "PL",
+    "Name": "Poland",
+    "OfficialName": "Republic of Poland",
+    "Latitude": "52.10117636",
+    "Longitude": "19.33190957",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "PRT",
+    "Alpha2Code": "PT",
+    "Name": "Portugal",
+    "OfficialName": "Portuguese Republic",
+    "Latitude": "39.44879136",
+    "Longitude": "-8.03768042",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "PRI",
+    "Alpha2Code": "PR",
+    "Name": "Puerto Rico",
+    "OfficialName": "Commonwealth of Puerto Rico",
+    "Latitude": "18.21963053",
+    "Longitude": "-66.59015100",
+    "Zoom": 9
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "QAT",
+    "Alpha2Code": "QA",
+    "Name": "Qatar",
+    "OfficialName": "State of Qatar",
+    "Latitude": "25.24551555",
+    "Longitude": "51.24431480",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "KOR",
+    "Alpha2Code": "KR",
+    "Name": "Republic of Korea",
+    "OfficialName": "Republic of Korea",
+    "Latitude": "36.56344139",
+    "Longitude": "127.51424646",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MDA",
+    "Alpha2Code": "MD",
+    "Name": "Republic of Moldova",
+    "OfficialName": "Republic of Moldova",
+    "Latitude": "47.10710437",
+    "Longitude": "28.54018109",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "REU",
+    "Alpha2Code": "RE",
+    "Name": "R\u00e9union",
+    "OfficialName": "Department of Reunion",
+    "Latitude": "-21.11480084",
+    "Longitude": "55.53638200",
+    "Zoom": 10
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ROU",
+    "Alpha2Code": "RO",
+    "Name": "Romania",
+    "OfficialName": "Romania",
+    "Latitude": "45.56450023",
+    "Longitude": "25.21945155",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "RUS",
+    "Alpha2Code": "RU",
+    "Name": "Russian Federation",
+    "OfficialName": "Russian Federation",
+    "Latitude": "57.96812298",
+    "Longitude": "102.41837137",
+    "Zoom": 3
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "RWA",
+    "Alpha2Code": "RW",
+    "Name": "Rwanda",
+    "OfficialName": "Republic of Rwanda",
+    "Latitude": "-1.98589079",
+    "Longitude": "29.94255855",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "BLM",
+    "Alpha2Code": "BL",
+    "Name": "Saint Barth\u00e9lemy",
+    "OfficialName": "Territorial collectivity of Saint Barth\u00e9lemy",
+    "Latitude": "17.90042417",
+    "Longitude": "-62.83376215",
+    "Zoom": 13
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SHN",
+    "Alpha2Code": "SH",
+    "Name": "Saint Helena, Ascension and Tristan da Cunha",
+    "OfficialName": "Saint Helena, Ascension and Tristan da Cunha",
+    "Latitude": "-37.10521846",
+    "Longitude": "-12.27768580",
+    "Zoom": 12
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "KNA",
+    "Alpha2Code": "KN",
+    "Name": "Saint Kitts and Nevis",
+    "OfficialName": "Saint Kitts and Nevis",
+    "Latitude": "17.33453669",
+    "Longitude": "-62.76411725",
+    "Zoom": 12
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "LCA",
+    "Alpha2Code": "LC",
+    "Name": "Saint Lucia",
+    "OfficialName": "Saint Lucia",
+    "Latitude": "13.90938495",
+    "Longitude": "-60.97889500",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MAF",
+    "Alpha2Code": "MF",
+    "Name": "Saint Martin",
+    "OfficialName": "Saint Martin",
+    "Latitude": "18.07637107",
+    "Longitude": "-63.05019106",
+    "Zoom": 12
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SPM",
+    "Alpha2Code": "PM",
+    "Name": "Saint Pierre and Miquelon",
+    "OfficialName": "Saint Pierre and Miquelon",
+    "Latitude": "46.88469499",
+    "Longitude": "-56.31590200",
+    "Zoom": 10
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "VCT",
+    "Alpha2Code": "VC",
+    "Name": "Saint Vincent and the Grenadines",
+    "OfficialName": "Saint Vincent and the Grenadines",
+    "Latitude": "13.25276143",
+    "Longitude": "-61.19709800",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "WSM",
+    "Alpha2Code": "WS",
+    "Name": "Samoa",
+    "OfficialName": "Independent State of Samoa",
+    "Latitude": "-13.57998954",
+    "Longitude": "-172.45207363",
+    "Zoom": 10
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SMR",
+    "Alpha2Code": "SM",
+    "Name": "San Marino",
+    "OfficialName": "Republic of San Marino",
+    "Latitude": "43.94223356",
+    "Longitude": "12.45777700",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "STP",
+    "Alpha2Code": "ST",
+    "Name": "Sao Tome and Principe",
+    "OfficialName": "Democratic Republic of Sao Tome and Principe",
+    "Latitude": "0.23381910",
+    "Longitude": "6.59935809",
+    "Zoom": 10
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SAU",
+    "Alpha2Code": "SA",
+    "Name": "Saudi Arabia",
+    "OfficialName": "Kingdom of Saudi Arabia",
+    "Latitude": "24.16687314",
+    "Longitude": "42.88190638",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SEN",
+    "Alpha2Code": "SN",
+    "Name": "Senegal",
+    "OfficialName": "Republic of Senegal",
+    "Latitude": "14.43579003",
+    "Longitude": "-14.68306489",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SRB",
+    "Alpha2Code": "RS",
+    "Name": "Serbia",
+    "OfficialName": "Republic of Serbia",
+    "Latitude": "44.06736041",
+    "Longitude": "20.29725084",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SYC",
+    "Alpha2Code": "SC",
+    "Name": "Seychelles",
+    "OfficialName": "Republic of Seychelles",
+    "Latitude": "-4.68053204",
+    "Longitude": "55.49061371",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SLE",
+    "Alpha2Code": "SL",
+    "Name": "Sierra Leone",
+    "OfficialName": "Republic of Sierra Leone",
+    "Latitude": "8.45575589",
+    "Longitude": "-11.93368759",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SGP",
+    "Alpha2Code": "SG",
+    "Name": "Singapore",
+    "OfficialName": "Republic of Singapore",
+    "Latitude": "1.33873261",
+    "Longitude": "103.83323559",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SXM",
+    "Alpha2Code": "SX",
+    "Name": "Sint Maarten",
+    "OfficialName": "Sint Maarten",
+    "Latitude": "18.04433885",
+    "Longitude": "-63.05616320",
+    "Zoom": 12
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SVK",
+    "Alpha2Code": "SK",
+    "Name": "Slovakia",
+    "OfficialName": "Slovak Republic",
+    "Latitude": "48.66923253",
+    "Longitude": "19.75396564",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SVN",
+    "Alpha2Code": "SI",
+    "Name": "Slovenia",
+    "OfficialName": "Republic of Slovenia",
+    "Latitude": "46.14315048",
+    "Longitude": "14.99546300",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SLB",
+    "Alpha2Code": "SB",
+    "Name": "Solomon Islands",
+    "OfficialName": "Solomon Islands",
+    "Latitude": "-9.64554280",
+    "Longitude": "160.15619400",
+    "Zoom": 10
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SOM",
+    "Alpha2Code": "SO",
+    "Name": "Somalia",
+    "OfficialName": "Federal Republic of Somalia",
+    "Latitude": "2.87224619",
+    "Longitude": "45.27676444",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ZAF",
+    "Alpha2Code": "ZA",
+    "Name": "South Africa",
+    "OfficialName": "Republic of South Africa",
+    "Latitude": "-27.17706863",
+    "Longitude": "24.50856092",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SGS",
+    "Alpha2Code": "GS",
+    "Name": "South Georgia and the South Sandwich Islands",
+    "OfficialName": "South Georgia and the South Sandwich Islands",
+    "Latitude": "-54.38130284",
+    "Longitude": "-36.67305304",
+    "Zoom": 9
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SSD",
+    "Alpha2Code": "SS",
+    "Name": "South Sudan",
+    "OfficialName": "Republic of South Sudan",
+    "Latitude": "7.91320803",
+    "Longitude": "30.15342434",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ESP",
+    "Alpha2Code": "ES",
+    "Name": "Spain",
+    "OfficialName": "Kingdom of Spain",
+    "Latitude": "39.87299401",
+    "Longitude": "-3.67089492",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "LKA",
+    "Alpha2Code": "LK",
+    "Name": "Sri Lanka",
+    "OfficialName": "Democratic Socialist Republic of Sri Lanka",
+    "Latitude": "7.61264985",
+    "Longitude": "80.83772497",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SDN",
+    "Alpha2Code": "SD",
+    "Name": "Sudan",
+    "OfficialName": "Republic of Sudan",
+    "Latitude": "15.96646839",
+    "Longitude": "30.37145459",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SUR",
+    "Alpha2Code": "SR",
+    "Name": "SuriName",
+    "OfficialName": "Republic of SuriName",
+    "Latitude": "4.26470865",
+    "Longitude": "-55.93988238",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SJM",
+    "Alpha2Code": "SJ",
+    "Name": "Svalbard and Jan Mayen",
+    "OfficialName": "Svalbard and Jan Mayen",
+    "Latitude": "77.92215764",
+    "Longitude": "18.99010622",
+    "Zoom": 4
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SWZ",
+    "Alpha2Code": "SZ",
+    "Name": "Swaziland",
+    "OfficialName": "Kingdom of Swaziland",
+    "Latitude": "-26.53892570",
+    "Longitude": "31.47960891",
+    "Zoom": 9
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SWE",
+    "Alpha2Code": "SE",
+    "Name": "Sweden",
+    "OfficialName": "Kingdom of Sweden",
+    "Latitude": "61.42370427",
+    "Longitude": "16.73188991",
+    "Zoom": 4
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "CHE",
+    "Alpha2Code": "CH",
+    "Name": "Switzerland",
+    "OfficialName": "Swiss Confederation",
+    "Latitude": "46.81010721",
+    "Longitude": "8.22751200",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "SYR",
+    "Alpha2Code": "SY",
+    "Name": "Syrian Arab Republic",
+    "OfficialName": "Syrian Arab Republic",
+    "Latitude": "34.71097430",
+    "Longitude": "38.66723516",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "TWN",
+    "Alpha2Code": "TW",
+    "Name": "Taiwan",
+    "OfficialName": "Republic of China",
+    "Latitude": "23.71891402",
+    "Longitude": "121.10884043",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "TJK",
+    "Alpha2Code": "TJ",
+    "Name": "Tajikistan",
+    "OfficialName": "Republic of Tajikistan",
+    "Latitude": "38.68075124",
+    "Longitude": "71.23215769",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "THA",
+    "Alpha2Code": "TH",
+    "Name": "Thailand",
+    "OfficialName": "Kingdom of Thailand",
+    "Latitude": "14.60009810",
+    "Longitude": "101.38805881",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "MKD",
+    "Alpha2Code": "MK",
+    "Name": "The former Yugoslav Republic of Macedonia",
+    "OfficialName": "The former Yugoslav Republic of Macedonia",
+    "Latitude": "41.60059479",
+    "Longitude": "21.74527900",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "TLS",
+    "Alpha2Code": "TL",
+    "Name": "Timor-Leste",
+    "OfficialName": "Democratic Republic of Timor-Leste",
+    "Latitude": "-8.88926365",
+    "Longitude": "125.99671404",
+    "Zoom": 9
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "TGO",
+    "Alpha2Code": "TG",
+    "Name": "Togo",
+    "OfficialName": "Togolese Republic",
+    "Latitude": "8.68089206",
+    "Longitude": "0.86049757",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "TKL",
+    "Alpha2Code": "TK",
+    "Name": "Tokelau (Associate Member)",
+    "OfficialName": "Tokelau",
+    "Latitude": "-9.16682644",
+    "Longitude": "-171.83981693",
+    "Zoom": 10
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "TON",
+    "Alpha2Code": "TO",
+    "Name": "Tonga",
+    "OfficialName": "Kingdom of Tonga",
+    "Latitude": "-21.17890075",
+    "Longitude": "-175.19824200",
+    "Zoom": 11
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "TTO",
+    "Alpha2Code": "TT",
+    "Name": "Trinidad and Tobago",
+    "OfficialName": "Republic of Trinidad and Tobago",
+    "Latitude": "10.43241863",
+    "Longitude": "-61.22250300",
+    "Zoom": 10
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "TUN",
+    "Alpha2Code": "TN",
+    "Name": "Tunisia",
+    "OfficialName": "Republic of Tunisia",
+    "Latitude": "33.88431940",
+    "Longitude": "9.71878341",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "TUR",
+    "Alpha2Code": "TR",
+    "Name": "Turkey",
+    "OfficialName": "Republic of Turkey",
+    "Latitude": "38.27069555",
+    "Longitude": "36.28703317",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "TKM",
+    "Alpha2Code": "TM",
+    "Name": "Turkmenistan",
+    "OfficialName": "Turkmenistan",
+    "Latitude": "38.94915421",
+    "Longitude": "59.06190323",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "TCA",
+    "Alpha2Code": "TC",
+    "Name": "Turks and Caicos Islands",
+    "OfficialName": "Turks and Caicos Islands",
+    "Latitude": "21.72816866",
+    "Longitude": "-71.79654471",
+    "Zoom": 9
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "TUV",
+    "Alpha2Code": "TV",
+    "Name": "Tuvalu",
+    "OfficialName": "Tuvalu",
+    "Latitude": "-8.45968122",
+    "Longitude": "179.13310944",
+    "Zoom": 12
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "UGA",
+    "Alpha2Code": "UG",
+    "Name": "Uganda",
+    "OfficialName": "Republic of Uganda",
+    "Latitude": "1.54760620",
+    "Longitude": "32.44409759",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "UKR",
+    "Alpha2Code": "UA",
+    "Name": "Ukraine",
+    "OfficialName": "Ukraine",
+    "Latitude": "48.89358596",
+    "Longitude": "31.10516920",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ARE",
+    "Alpha2Code": "AE",
+    "Name": "United Arab Emirates",
+    "OfficialName": "United Arab Emirates",
+    "Latitude": "24.64324405",
+    "Longitude": "53.62261227",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "GBR",
+    "Alpha2Code": "GB",
+    "Name": "United Kingdom",
+    "OfficialName": "United Kingdom of Great Britain and Northern Ireland",
+    "Latitude": "53.36540813",
+    "Longitude": "-2.72184767",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "TZA",
+    "Alpha2Code": "TZ",
+    "Name": "United Republic of Tanzania",
+    "OfficialName": "United Republic of Tanzania",
+    "Latitude": "-6.37551085",
+    "Longitude": "34.85587302",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "UMI",
+    "Alpha2Code": "UM",
+    "Name": "United States Minor Outlying Islands",
+    "OfficialName": "United States Minor Outlying Islands",
+    "Latitude": "19.46305694",
+    "Longitude": "177.98631092",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "USA",
+    "Alpha2Code": "US",
+    "Name": "United States of America",
+    "OfficialName": "United States of America",
+    "Latitude": "37.66895362",
+    "Longitude": "-102.39256450",
+    "Zoom": 4
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "VIR",
+    "Alpha2Code": "VI",
+    "Name": "United States Virgin Islands",
+    "OfficialName": "Virgin Islands of the United States",
+    "Latitude": "18.01000938",
+    "Longitude": "-64.77411410",
+    "Zoom": 9
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "URY",
+    "Alpha2Code": "UY",
+    "Name": "Uruguay",
+    "OfficialName": "Eastern Republic of Uruguay",
+    "Latitude": "-32.49342987",
+    "Longitude": "-55.76583300",
+    "Zoom": 7
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "UZB",
+    "Alpha2Code": "UZ",
+    "Name": "Uzbekistan",
+    "OfficialName": "Republic of Uzbekistan",
+    "Latitude": "41.30829147",
+    "Longitude": "62.62970960",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "VUT",
+    "Alpha2Code": "VU",
+    "Name": "Vanuatu",
+    "OfficialName": "Republic of Vanuatu",
+    "Latitude": "-15.37256614",
+    "Longitude": "166.95916000",
+    "Zoom": 8
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "VEN",
+    "Alpha2Code": "VE",
+    "Name": "Venezuela",
+    "OfficialName": "Bolivarian Republic of Venezuela",
+    "Latitude": "5.98477766",
+    "Longitude": "-65.94152264",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "VNM",
+    "Alpha2Code": "VN",
+    "Name": "Vietnam",
+    "OfficialName": "Socialist Republic of Vietnam",
+    "Latitude": "17.19931699",
+    "Longitude": "107.14012804",
+    "Zoom": 5
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "VGB",
+    "Alpha2Code": "VG",
+    "Name": "Virgin Islands",
+    "OfficialName": "British Virgin Islands",
+    "Latitude": "17.67004187",
+    "Longitude": "-64.77411010",
+    "Zoom": 10
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "WLF",
+    "Alpha2Code": "WF",
+    "Name": "Wallis and Futuna",
+    "OfficialName": "Territory of the Wallis and Futuna Islands",
+    "Latitude": "-14.29378486",
+    "Longitude": "-178.11649800",
+    "Zoom": 12
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ESH",
+    "Alpha2Code": "EH",
+    "Name": "Western Sahara",
+    "OfficialName": "Western Sahara",
+    "Latitude": "24.79324356",
+    "Longitude": "-13.67683563",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "YEM",
+    "Alpha2Code": "YE",
+    "Name": "Yemen",
+    "OfficialName": "Republic of Yemen",
+    "Latitude": "15.60865453",
+    "Longitude": "47.60453676",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ZMB",
+    "Alpha2Code": "ZM",
+    "Name": "Zambia",
+    "OfficialName": "Republic of Zambia",
+    "Latitude": "-13.01812188",
+    "Longitude": "28.33274444",
+    "Zoom": 6
+  },
+  {
+    "StatusType": "Active",
+    "Alpha3Code": "ZWE",
+    "Alpha2Code": "ZW",
+    "Name": "Zimbabwe",
+    "OfficialName": "Republic of Zimbabwe",
+    "Latitude": "-19.00784952",
+    "Longitude": "30.18758584",
+    "Zoom": 6
+  }
+]

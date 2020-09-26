@@ -1,0 +1,179 @@
+﻿@page "/"
+@inject HttpClient HttpClient
+@using Basics.Countries.Entities
+
+
+<div class="container">
+
+    @if (_pageReady == true)
+    {
+        @if (_hasApiError == false)
+        {
+            <div class="row" style="margin-top: 30px;margin-bottom: 30px;">
+                <div class="col-lg col-md-12">
+
+                </div>
+                <div class="col-lg col-md-12">
+                    <form>
+                        <div class="form-group">
+                            <select class="form-control form-control-sm" @bind="_selectedCountryId">
+                                <option>---Select Country---</option>
+                                @foreach (var country in _countries)
+                                {
+                                    <option value="@country.Id">@country.Name</option>
+                                }
+                            </select>
+                        </div>
+
+                        <div class="float-right"> <button type="button" class="btn btn-primary btn-sm" @onclick="OnSubmitClick">Submit</button></div>
+
+                    </form>
+                </div>
+                <div class="col-lg col-md-12">
+                </div>
+            </div>
+
+            @if (_selectedCountry != null)
+            {
+                <div class="row">
+                    <div class="col-lg-3 col-md-12"> </div>
+                    <div class="col-lg col-md-12">
+                        <div class="card" style="width: 100%;text-align: center;border: none;">
+                            <div style="width: 100%;text-align: center;">
+                                <img class="card-img-top"
+                                     style="min-width: 300px;min-height:200px;max-width: 300px;max-height:200px;border-radius: 10px;border:2px solid black"
+                                     src="data:image/jpeg;base64,@_flagImage" alt="Country Flag">
+                            </div>
+                            <div class="card-body">
+                                <table class="table table-sm">
+                                    <thead>
+                                        <tr style="text-align: center;">
+                                            <th scope="col" colspan="2">@_selectedCountry.Name</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th scope="row">Offical Name</th>
+                                            <td>@_selectedCountry.OfficialName</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Alpha-2 Code</th>
+                                            <td>@_selectedCountry.Alpha2Code</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Alpha-3 Code</th>
+                                            <td>@_selectedCountry.Alpha3Code</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Latitude</th>
+                                            <td>@_selectedCountry.Latitude</td>
+                                        </tr>
+                                        <tr>
+                                            <th scope="row">Longitude</th>
+                                            <td>@_selectedCountry.Longitude</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-12"> </div>
+                </div>
+            }
+        }
+
+        @if (_hasApiError == true)
+        {
+            <div class="row" style="margin-top:30px">
+                <div class="col-lg-3 col-md-12"> </div>
+                <div class="col-lg col-md-12">
+                    <div class="alert alert-danger" role="alert">
+                        @_errorMessage <div class="float-right"> <a href="javascript:window.location.reload();" class="btn btn-secondary btn-sm">Retry</a></div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-12"> </div>
+            </div>
+        }
+    }
+
+
+    @if (_pageReady == false)
+    {
+        <div class="row" style="margin-top:30px">
+            <div class="col-lg-3 col-md-12"> </div>
+            <div class="col-lg col-md-12">
+                <div class="alert alert-info" role="alert">
+                   Loading data from server...
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-12"> </div>
+        </div>
+    }
+
+</div>
+
+
+@code{
+    private Country[] _countries = new Country[] { };
+    private string _selectedCountryId;
+    private Country _selectedCountry;
+    private string _flagImage;
+
+    private bool _hasApiError;
+    private string _errorMessage;
+    private bool _pageReady = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _countries = await HttpClient.GetFromJsonAsync<Country[]>("country/list");
+        }
+        catch (Exception e)
+        {
+            SetError("Server Unavailable");
+        }
+
+        _pageReady = true;
+
+    }
+
+    private async Task OnSubmitClick()
+    {
+
+        try
+        {
+            _selectedCountry = await HttpClient.GetFromJsonAsync<Country>($"country/{_selectedCountryId}");
+        }
+        catch (Exception)
+        {
+
+            SetError("Error occured when retrieving details.");
+            return;
+        }
+
+        try
+        {
+            _flagImage = await HttpClient.GetStringAsync($"flag/{_selectedCountryId}");
+        }
+        catch (Exception)
+        {
+
+        }
+
+
+    }
+
+
+    private void SetError(string msg)
+    {
+        _hasApiError = true;
+        _errorMessage = msg;
+    }
+    private void ResetError()
+    {
+        _hasApiError = false;
+        _errorMessage = string.Empty;
+    }
+
+}

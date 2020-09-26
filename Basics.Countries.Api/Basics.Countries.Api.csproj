@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Basics.Countries.Data\Basics.Countries.Data.csproj" />
+    <ProjectReference Include="..\Basics.Countries.MongoStorage\Basics.Countries.MongoStorage.csproj" />
+  </ItemGroup>
+
+</Project>

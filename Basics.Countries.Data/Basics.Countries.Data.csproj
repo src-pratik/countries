@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <Content Include="SeedData\**">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\Basics.Countries.Entities\Basics.Countries.Entities.csproj" />
+    <ProjectReference Include="..\Basics.Countries.MongoStorage\Basics.Countries.MongoStorage.csproj" />
+  </ItemGroup>
+  
+</Project>

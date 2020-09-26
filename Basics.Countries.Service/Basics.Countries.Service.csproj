@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Basics.Countries.Api\Basics.Countries.Api.csproj" />
+    <ProjectReference Include="..\Basics.Countries.Data\Basics.Countries.Data.csproj" />
+  </ItemGroup>
+
+</Project>

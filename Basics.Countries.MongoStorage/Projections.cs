@@ -1,7 +1,7 @@
 ﻿namespace Basics.Countries.MongoStorage
 {
     /// <summary>
-    /// Projections is used to define to retrive or exlude the desired fields from Document.
+    /// Projections is used to define to include or exclude the desired fields from Document.
     /// This can be then used to build the ProjectionDefinition to query a collection.
     /// </summary>
     public class Projections

@@ -1,0 +1,45 @@
+<div *ngIf="country">
+    <mat-card style="border-radius: 10px;min-width:350px;max-width: 350px;">
+        <div style="width: 100%;text-align: center;">
+            <h1 id="idCountryName">{{country.name}}</h1>
+        </div>
+        <div style="width: 100%;text-align: center;">
+            <div *ngIf="!(!country.flag)">
+                <img id="idFlag"
+                    style="min-width: 300px;min-height:200px;max-width: 300px;max-height:200px;border-radius: 10px;border:2px solid black"
+                    mat-card-image src="{{'data:image/jpg;base64,' + country.flag}}" alt="Flag">
+            </div>
+        </div>
+        <mat-card-content>
+            <table style="width: 100%; text-align: center;">
+                <tbody>
+                    <tr>
+                        <th scope="row" style="min-width: 40%;">Offical Name</th>
+                        <td id="idOfficialName">{{country.officialName}}
+                        <td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Alpha-2 Code</th>
+                        <td id="idAlpha2Code">{{country.alpha2Code}}
+                        <td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Alpha-3 Code</th>
+                        <td id="idAlpha3Code">{{country.alpha3Code}}
+                        <td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Latitude</th>
+                        <td id="idLatitude">{{country.latitude}}
+                        <td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Longitude</th>
+                        <td id="idLongitude">{{country.longitude}}
+                        <td>
+                    </tr>
+                </tbody>
+            </table>
+        </mat-card-content>
+    </mat-card>
+</div>

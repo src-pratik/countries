@@ -1,0 +1,16 @@
+<layout-header (eventEmitterToggleLeftSideBar)="handleToggleLeftSideBar($event)"></layout-header>
+<mat-drawer-container>
+    <div style="display: flex;justify-content: center;flex-direction: column;align-items: center; margin-top: 25px;">
+        <app-country (loadcomplete)="onCountryLoadComplete($event)" (valuechange)="onSelectedCountryChange($event)">
+        </app-country>
+
+        <div *ngIf="selectedCountry">
+            <app-country-view [country]="selectedCountry"></app-country-view>
+        </div>
+
+        <div *ngIf="errormessage!='undefined'">
+            {{errormessage}}
+        </div>
+    </div>
+</mat-drawer-container>
+<layout-footer></layout-footer>

@@ -9,4 +9,11 @@ namespace Basics.Countries.Entities
 
         public byte[] Value { get; set; }
     }
+
+    public class FlagImageDTO
+    {
+        public string Id { get; set; }
+
+        public string Flag { get; set; }
+    }
 }

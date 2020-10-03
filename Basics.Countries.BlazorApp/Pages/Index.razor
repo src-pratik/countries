@@ -154,7 +154,9 @@
 
         try
         {
-            _flagImage = await HttpClient.GetStringAsync($"flag/{_selectedCountryId}");
+            var result = await HttpClient.GetFromJsonAsync<FlagImageDTO>($"flag/{_selectedCountryId}");
+
+            _flagImage = result.Flag;
         }
         catch (Exception)
         {

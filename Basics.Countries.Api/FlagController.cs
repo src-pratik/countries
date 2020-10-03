@@ -1,6 +1,7 @@
 ﻿using Basics.Countries.Entities;
 using Basics.Countries.MongoStorage;
 using Microsoft.AspNetCore.Mvc;
+using System.Linq;
 
 namespace Basics.Countries.Api
 {
@@ -15,15 +16,29 @@ namespace Basics.Countries.Api
             _flagService = flagService;
         }
 
+
+        [HttpGet()]
+        public IActionResult Get()
+        {
+            var result = _flagService.Get();
+
+            if (result == null)
+                return NoContent();
+
+            var data = result.Select(x => new { Id = x.Id, Flag = System.Convert.ToBase64String(x.Value) }).ToList();
+
+            return Ok(data);
+        }
+
         [HttpGet("{id:length(24)}")]
         public IActionResult GetById(string id)
         {
             var result = _flagService.Get(id);
 
             if (result == null)
-               return NoContent();
+                return NoContent();
 
-            return Ok(System.Convert.ToBase64String(result.Value));
+            return Ok(new FlagImageDTO { Id = id, Flag = System.Convert.ToBase64String(result.Value) });
         }
 
         [HttpPost]

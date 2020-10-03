@@ -4,16 +4,54 @@ import { Observable, of, throwError } from 'rxjs';
 import { delay, mergeMap, materialize, dematerialize } from 'rxjs/operators';
 import { environment } from 'src/environments/environment';
 
-import * as countryList from '../../sampledata/country_list.json';
-import * as countryData from '../../sampledata/country.json';
-import * as flagData from '../../sampledata/flag.json';
-
-let _countrylist = (countryList as any).default;
-let _countries = (countryData as any).default;
-let _flags = (flagData as any).default;
+let _countrylist = [];
+let _countries = [];
+let _flags = [];
 
 @Injectable()
 export class MockBackendInterceptor implements HttpInterceptor {
+
+    constructor() {
+
+        if (environment.mockBackend.enabled === false)
+            return;
+
+        if (_countrylist.length == 0) {
+            try {
+                var storage = localStorage.getItem('mockdata.countrylist');
+                if (storage !== null) {
+                    _countrylist = JSON.parse(storage);
+                }
+
+            } catch (error) {
+                console.error("Unable to load country list." + error);
+            }
+        }
+
+        if (_countries.length == 0) {
+            try {
+                var storage = localStorage.getItem('mockdata.countries');
+                if (storage !== null) {
+                    _countries = JSON.parse(storage);
+                }
+
+            } catch (error) {
+                console.error("Unable to load countries." + error);
+            }
+        }
+
+        if (_flags.length == 0) {
+            try {
+                var storage = localStorage.getItem('mockdata.flags');
+                if (storage !== null) {
+                    _flags = JSON.parse(storage);
+                }
+
+            } catch (error) {
+                console.error("Unable to load flags." + error);
+            }
+        }
+    }
 
     intercept(req: HttpRequest<any>, next: HttpHandler):
         Observable<HttpEvent<any>> {

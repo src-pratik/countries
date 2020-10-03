@@ -1,0 +1,71 @@
+<html>
+
+<head>
+</head>
+
+<title>MockData Load</title>
+
+<body>
+
+    <form id="jsonFile" name="jsonFile" enctype="multipart/form-data" method="post">
+        <fieldset>
+            <h2>This page when loaded will load mock data in localstorage</h2>
+            <label for="inputkey">LocalStorage Key:</label><br>
+            <input type="text" id="inputkey" value=""><br>
+            <label for="fileinput">Json File:</label><br>
+            <input type='file' id='fileinput'><br><br>
+            <input type='button' id='btnLoad' value='Load' onclick='loadFile();'>
+        </fieldset>
+    </form>
+    <div id="result"></div>
+
+    <script type="text/javascript">
+
+        function loadFile() {
+            var input, file, fr, key;
+
+            if (typeof window.FileReader !== 'function') {
+                alert("The file API isn't supported on this browser yet.");
+                return;
+            }
+
+            key = document.getElementById('inputkey').value;
+
+            if (!key) {
+                alert("Um, couldn't find the storagekey element.");
+                return;
+            }
+            if (key === "") {
+                alert("Um, couldn't find the storagekey is empty.");
+                return;
+            }
+
+            input = document.getElementById('fileinput');
+            if (!input) {
+                alert("Um, couldn't find the fileinput element.");
+            }
+            else if (!input.files) {
+                alert("This browser doesn't seem to support the `files` property of file inputs.");
+            }
+            else if (!input.files[0]) {
+                alert("Please select a file before clicking 'Load'");
+            }
+            else {
+                file = input.files[0];
+                fr = new FileReader();
+                fr.onload = receivedText;
+                fr.readAsText(file);
+            }
+
+            function receivedText(e) {
+                let lines = e.target.result;
+                var newArr = JSON.parse(lines);
+                localStorage.setItem(key, lines);
+
+            }
+        }
+    </script>
+</body>
+
+
+</html>
